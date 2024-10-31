@@ -160,6 +160,6 @@ cython_debug/
 #.idea/
 
 
-http.txt
-list.txt
-list2.txt
+*.txt
+*.py
+!checker.py
